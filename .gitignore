@@ -1,0 +1,28 @@
+# dependencies
+/node_modules
+
+# build directory
+/build
+
+# environment variables
+.env
+
+# IDE specific settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+
+# Operating System generated
+.DS_Store
+Thumbs.db
+
+# Yarn integrity file
+.yarn-integrity
+
+# Temporary files
+*.tmp
